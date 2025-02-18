@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, ¿cómo va todo? 👋✨
 
-<!--
-**mike-ki17/mike-ki17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy Mike, estudiante de ingeniería de software con un montón de ideas para llevar al mundo digital. Me encanta desarrollar, aprender nuevas tecnologías y colaborar con otros en proyectos interesantes. ¡Vamos a conectar y crear algo genial! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💻 Tecnologías que manejo  
+- **Python** 🐍  
+- **Flask** 🌐  
+- **JavaScript** 💥  
+- **React** ⚛️  
+- **MySQL** 💾
+
+### 📬 Contáctame  
+Correo: **michael17ycd@gmail.com**  
+LinkedIn: [Michael en LinkedIn]([https://www.linkedin.com/in/michael/](https://www.linkedin.com/in/michael-castro-98489a322/))  
+
+¡Siempre listo para hablar de software y nuevas ideas! 🌍💡
